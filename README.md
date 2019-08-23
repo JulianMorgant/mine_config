@@ -1,2 +1,2 @@
 # mine_config
-Group configuration folders in a repository | use SpringCloudConfig to 
+Java service used to group configuration folders in a repository | SpringCloudConfig 
